@@ -5,7 +5,7 @@ import tensorflow as tf
 matplotlib.use('Agg')
 
 
-font_name = fm.FontProperties(fname="./NanumGothic.ttf").get_name()
+font_name = fm.FontProperties(fname="./malgun.ttf").get_name()
 matplotlib.rc('font', family=font_name, size=14)
 
 
